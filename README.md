@@ -1,3 +1,3 @@
-# woooo
+# Example project
 
-Voorbeeld
+Update: Added new pages
